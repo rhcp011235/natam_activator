@@ -1,0 +1,393 @@
+================================================================================
+NATTRAMN PAYLOAD - SCRAPED RESOURCES
+================================================================================
+
+----------------------------------------
+URLS (43 found)
+----------------------------------------
+  https://nattramn666.cloud/ch41n5/PurpleMode/$replace.zip
+  https://nattramn666.cloud/ch41n5/b00t/$deviceid2.zip
+  https://nattramn666.cloud/ch41n5/b00t/old/$deviceid2.zip
+  https://nattramn666.cloud/ch41n5/b00t/old/7↓/$deviceid2.zip
+  https://nattramn666.cloud/ch41n5/b00t12x/$deviceid2.zip
+  https://nattramn666.cloud/ch41n5/b00t13x/$deviceid2.zip
+  https://nattramn666.cloud/ch41n5/b00t16x/$deviceid2.zip
+  https://nattramn666.cloud/ch41n5/b00t16x/16.3/$deviceid2.zip
+  https://nattramn666.cloud/ch41n5/b00t17x/$deviceid.zip
+  https://nattramn666.cloud/ch41n5/b00t2/$deviceid2.zip
+  https://nattramn666.cloud/ch41n5/b00t2/old/$deviceid2.zip
+  https://nattramn666.cloud/ch41n5/b00t2/old/7↓/$deviceid2.zip
+  https://nattramn666.cloud/checagem/R3g-F1L35/BChecker.php?sn=$ecid
+  https://nattramn666.cloud/checagem/R3g-F1L35/RGChecker.php?sn=$ecid
+  https://nattramn666.cloud/checagem/R3g-F1L35/RGChecker.php?sn=$hex
+  https://nattramn666.cloud/checagem/R3g-F1L35/SSHChecker.php?sn=$ecid
+  https://nattramn666.cloud/macs_autorizados/UserCheck.php?usrfdp=REGnew0202
+  https://nattramn666.cloud/macs_autorizados/auth/version-REG.txt
+  https://nattramn666.cloud/macs_autorizados/upd4t35/REG-client15-08.tar
+  https://nattramn666.cloud/tela_hello/12E14/BrokenBB.php?udid=$
+  https://nattramn666.cloud/tela_hello/12E14/BrokenBB/$sn/IC-Info.sisv
+  https://nattramn666.cloud/tela_hello/12E14/FA.php
+  https://nattramn666.cloud/tela_hello/12E14/Gerados/$sn0/commcenter.plist
+  https://nattramn666.cloud/tela_hello/A5/A5-6Tethered.php
+  https://nattramn666.cloud/tela_hello/A5/A5-6Untethered.php?udid=$
+  https://nattramn666.cloud/tela_hello/A5/Gerados/$sn/IC-Info.sisv
+  https://nattramn666.cloud/tela_hello/A5/commcenter.plist
+  https://nattramn666.cloud/tela_hello/Legacy/Gerados/$sn/IC-Info.sisv
+  https://nattramn666.cloud/tela_hello/Legacy/gerar_legacy.php?udid=$
+  https://nattramn666.cloud/tela_hello/Legacy/gsm_wildcard.php?sn=$
+  https://nattramn666.cloud/tela_hello/SA/Gerados/$udid/IC-Info.sisv
+  https://nattramn666.cloud/tela_hello/SA/Gerados/commcenter.plist
+  https://nattramn666.cloud/tela_hello/SA/gerar_SA.php?udid=$
+  https://nattramn666.cloud/tela_hello/SO/Gerados/$sn/IC-Info.sisv
+  https://nattramn666.cloud/tela_hello/SO/commcenter.plist
+  https://nattramn666.cloud/tela_hello/SO/gerar_SO.php?udid=$
+  https://nattramn666.cloud/utilidades/CCDT.zip
+  https://nattramn666.cloud/utilidades/dep.zip
+  https://nattramn666.cloud/utilidades/iOS/iBoot-iOS.txt
+  https://nattramn666.cloud/utilidades/py.pkg
+  https://t.me/NattramnRamdisk
+  https://www.apple.com
+  https://www.paypal.com/donate/?hosted_button_id=6RTPKAP8V6V2S
+
+----------------------------------------
+DOMAINS (4 found)
+----------------------------------------
+  nattramn666.cloud
+  t.me
+  www.apple.com
+  www.paypal.com
+
+----------------------------------------
+API ENDPOINTS (13 found)
+----------------------------------------
+  https://nattramn666.cloud/checagem/R3g-F1L35/BChecker.php?sn=$ecid
+  https://nattramn666.cloud/checagem/R3g-F1L35/RGChecker.php?sn=$ecid
+  https://nattramn666.cloud/checagem/R3g-F1L35/RGChecker.php?sn=$hex
+  https://nattramn666.cloud/checagem/R3g-F1L35/SSHChecker.php?sn=$ecid
+  https://nattramn666.cloud/macs_autorizados/UserCheck.php?usrfdp=REGnew0202
+  https://nattramn666.cloud/tela_hello/12E14/BrokenBB.php?udid=$(DeviceInfo
+  https://nattramn666.cloud/tela_hello/12E14/FA.php
+  https://nattramn666.cloud/tela_hello/A5/A5-6Tethered.php
+  https://nattramn666.cloud/tela_hello/A5/A5-6Untethered.php?udid=$(DeviceInfo
+  https://nattramn666.cloud/tela_hello/Legacy/gerar_legacy.php?udid=$(DeviceInfo
+  https://nattramn666.cloud/tela_hello/Legacy/gsm_wildcard.php?sn=$(DeviceInfo
+  https://nattramn666.cloud/tela_hello/SA/gerar_SA.php?udid=$(DeviceInfo
+  https://nattramn666.cloud/tela_hello/SO/gerar_SO.php?udid=$(DeviceInfo
+
+----------------------------------------
+ZIP PASSWORDS
+----------------------------------------
+  Password: burzum9989SaNcTuM.
+  Password: burzum9989SaNcTuM.plpm
+  Password: éamancha8989.
+
+ZIP FILES (28 found)
+  /tmp/fckapl/dep.zip
+  https://nattramn666.cloud/ch41n5/PurpleMode/$replace.zip
+  https://nattramn666.cloud/ch41n5/b00t/$deviceid2.zip
+  https://nattramn666.cloud/ch41n5/b00t/old/$deviceid2.zip
+  https://nattramn666.cloud/ch41n5/b00t/old/7↓/$deviceid2.zip
+  https://nattramn666.cloud/ch41n5/b00t12x/$deviceid2.zip
+  https://nattramn666.cloud/ch41n5/b00t13x/$deviceid2.zip
+  https://nattramn666.cloud/ch41n5/b00t16x/$deviceid2.zip
+  https://nattramn666.cloud/ch41n5/b00t16x/16.3/$deviceid2.zip
+  https://nattramn666.cloud/ch41n5/b00t17x/$deviceid.zip
+  https://nattramn666.cloud/ch41n5/b00t2/$deviceid2.zip
+  https://nattramn666.cloud/ch41n5/b00t2/old/$deviceid2.zip
+  https://nattramn666.cloud/ch41n5/b00t2/old/7↓/$deviceid2.zip
+  https://nattramn666.cloud/utilidades/CCDT.zip
+  https://nattramn666.cloud/utilidades/dep.zip
+  ~/Library/.Bootchain/$b11/$deviceid2.zip
+  ~/Library/.Bootchain/$b14/$deviceid2.zip
+  ~/Library/.Bootchain/$b16/$deviceid2.zip
+  ~/Library/.Bootchain/$b7/$deviceid2.zip
+  ~/Library/.Bootchain/$b8/$deviceid2.zip
+  ~/Library/.Bootchain/PurpleMode/$replace.zip
+  ~/Library/.Bootchain/boot/old/$deviceid2.zip
+  ~/Library/.Bootchain/boot/old/7↓/$deviceid2.zip
+  ~/Library/.Bootchain/boot17x/$deviceid.zip
+  ~/Library/.Bootchain/dep/ref/btlg/iPad/.CCDT.zip
+  ~/Library/.Bootchain/dep/ref/certs.zip
+  ~/Library/.Bootchain/dep/ref/keys.zip
+  ~/Library/.Bootchain/dep/ref/mdm.zip
+
+----------------------------------------
+CREDENTIALS (129 found)
+----------------------------------------
+  SSH Password: alpine
+  Zip Password: burzum9989SaNcTuM.'
+  Zip Password: éamancha8989.'
+  Zip Password: burzum9989SaNcTuM.plpm'
+  Zip Password: 2222'
+  Zip Password: /tmp/fckapl
+  Zip Password: /tmp/fckapl/
+  Zip Password: ~/Library/.Bootchain
+  Zip Password: ~/Library/.Bootchain/$b8/
+  Zip Password: ~/Library/.Bootchain/$b7/
+  Zip Password: 2222
+  Zip Password: ~/Library/.Bootchain/$b14/
+  Zip Password: $fld/
+  Zip Password: /dev/disk0s1s3)
+  Zip Password: /dev/disk0s1s4)
+  Zip Password: /dev/disk0s1s5)
+  Zip Password: /dev/disk0s1s6)
+  Zip Password: /dev/disk0s1s7)
+  Zip Password: /dev/disk1s3)
+  Zip Password: /dev/disk1s4)
+  Zip Password: /dev/disk1s5)
+  Zip Password: /dev/disk1s6)
+  Zip Password: /dev/disk1s7)
+  Zip Password: /dev/disk1s2)
+  Zip Password: /dev/disk1s8)
+  Zip Password: /dev/disk1s9)
+  Zip Password: ~/Library/.Bootchain/$b11/
+  Zip Password: ~/Library/.Bootchain/$b16/
+  Zip Password: ~/Library/.Bootchain/boot17x/
+  Zip Password: ~/Library/.Bootchain/PurpleMode/
+  Zip Password: ~/Desktop/NattramnBackup/$ecid/FairPlay/iTunes_Control/iTunes/
+  Zip Password: ~/Desktop/NattramnBackup/$ecid/Info
+  Zip Password: ~/Desktop/NattramnBackup/$ecid/
+  Zip Password: ~/Desktop/NattramnBackup/$ecid/FairPlay/iTunes_Control/iTunes
+  Zip Password: ~/Desktop/NattramnBackup/$ecid/Lockdown
+  Zip Password: ~/Desktop/NattramnBackup/Generated/$hex/activation_records/
+  Zip Password: ~/Desktop/NattramnBackup/Generated/$hex/FairPlay/iTunes_Control/iTunes/
+  Zip Password: /tmp/Lockdown/
+  Zip Password: /tmp/fckapl/activation_records/
+  Zip Password: /tmp/fckapl/FairPlay/iTunes_Control/iTunes/
+  Zip Password: ~/Library/Caches/com.apple.iTunes/iTunes/System/files/
+  Zip Password: ~/Desktop/NattramnBackup/Bruteforce-Passwords/
+  Zip Password: ~/Desktop/NattramnBackup/$ecid
+  Zip Password: $fld/hdwr/
+  Zip Password: 'Enter
+
+----------------------------------------
+iOS DEVICE IDENTIFIERS (77 found)
+----------------------------------------
+  iPad1,1
+  iPad2,1
+  iPad2,2
+  iPad2,3
+  iPad2,4
+  iPad2,5
+  iPad2,6
+  iPad2,7
+  iPad3,1
+  iPad3,2
+  iPad3,3
+  iPad3,4
+  iPad3,5
+  iPad3,6
+  iPad4,1
+  iPad4,2
+  iPad4,3
+  iPad4,4
+  iPad4,5
+  iPad4,6
+  iPad4,7
+  iPad4,8
+  iPad4,9
+  iPad5,1
+  iPad5,2
+  iPad5,3
+  iPad5,4
+  iPad6,11
+  iPad6,12
+  iPad6,3
+  iPad6,4
+  iPad6,7
+  iPad6,8
+  iPad7,1
+  iPad7,11
+  iPad7,12
+  iPad7,2
+  iPad7,3
+  iPad7,4
+  iPad7,5
+  iPad7,6
+  iPhone1,1
+  iPhone1,2
+  iPhone10,1
+  iPhone10,2
+  iPhone10,3
+  iPhone10,4
+  iPhone10,5
+  iPhone10,6
+  iPhone2,1
+  iPhone3,1
+  iPhone3,2
+  iPhone3,3
+  iPhone4,1
+  iPhone5,1
+  iPhone5,2
+  iPhone5,3
+  iPhone5,4
+  iPhone6,1
+  iPhone6,2
+  iPhone7,1
+  iPhone7,2
+  iPhone8,1
+  iPhone8,2
+  iPhone8,4
+  iPhone9,1
+  iPhone9,2
+  iPhone9,3
+  iPhone9,4
+  iPod1,1
+  iPod2,1
+  iPod3,1
+  iPod4,1
+  iPod5,1
+  iPod6,1
+  iPod7,1
+  iPod9,1
+
+----------------------------------------
+FILE PATHS (332 found)
+----------------------------------------
+  /Applications/Nattramn
+  /Applications/NattramnRamdisk
+  /Applications/Setup.app
+  /Applications/Setup.bak/
+  /Library/.Bootchain
+  /Library/.Bootchain/
+  /Library/.Bootchain/$b11/
+  /Library/.Bootchain/$b11/$deviceid2.zip
+  /Library/.Bootchain/$b14/
+  /Library/.Bootchain/$b14/$deviceid2.zip
+  /Library/.Bootchain/$b16/
+  /Library/.Bootchain/$b16/$deviceid2.zip
+  /Library/.Bootchain/$b7/
+  /Library/.Bootchain/$b7/$deviceid2.zip
+  /Library/.Bootchain/$b8/
+  /Library/.Bootchain/$b8/$deviceid2.zip
+  /Library/.Bootchain/PurpleMode/
+  /Library/.Bootchain/PurpleMode/$replace.zip
+  /Library/.Bootchain/boot/old/$deviceid2.zip
+  /Library/.Bootchain/boot/old/7↓/$deviceid2.zip
+  /Library/.Bootchain/boot17x/
+  /Library/.Bootchain/boot17x/$deviceid.zip
+  /Library/.Bootchain/dep/
+  /Library/.Bootchain/dep/idevice_id
+  /Library/.Bootchain/dep/ideviceinfo
+  /Library/.Bootchain/dep/idevicepair
+  /Library/.Bootchain/dep/irecovery
+  /Library/.Bootchain/dep/ref/
+  /Library/.Bootchain/dep/ref/btlg/iPad/$check.img4
+  /Library/.Bootchain/dep/ref/btlg/iPad/.CCDT.zip
+  /Library/.Bootchain/dep/ref/btlg/iPad/iBoot-iOS.txt
+  /Library/.Bootchain/dep/ref/btlg/iPhone/$check.img4
+  /Library/.Bootchain/dep/ref/certs.zip
+  /Library/.Bootchain/dep/ref/keys.zip
+  /Library/.Bootchain/dep/ref/mdm.zip
+  /Library/.Bootchain/dep/ref/old/12
+  /Library/.Bootchain/dep/ref/old/14
+  /Library/.Bootchain/dep/ref/old/cp
+  /Library/.Bootchain/dep/ref/plutil
+  /Library/.Bootchain/dep/ref/plutil2
+  /Library/.Bootchain/dep/ref/plutil9
+  /Library/.Bootchain/dep/ref/pxy
+  /Library/.Bootchain/dep/ref/pxy16
+  /Library/.Bootchain/dep/ref/pxyA5-6
+  /Library/.Bootchain/dep/ref/pxyj
+  /Library/.trash
+  /Library/Accounts/*
+  /Library/Accounts/Accounts3.sqlite
+  /Library/Caches/com.apple.MobileGestalt.plist
+  /Library/Caches/com.apple.factorydata/
+  /Library/Caches/com.apple.iTunes/iTunes/
+  /Library/Caches/com.apple.iTunes/iTunes/System/files/
+  /Library/Caches/com.apple.iTunes/iTunes/System/files/CCDT/CCDT-$deviceid-$check-$dcl.plist
+  /Library/Caches/com.apple.iTunes/iTunes/System/files/CCDT/CCDT-$pdt-0x$cpu-$dcl-18.2.plist
+  /Library/Caches/com.apple.iTunes/iTunes/System/files/CCDT/CCDT-$pdt-0x$cpu-$dcl-18.3.plist
+  /Library/Caches/com.apple.iTunes/iTunes/System/files/CCDT/CCDT-$pdt-0x$cpu-$dcl-18.4.plist
+  /Library/Caches/com.apple.iTunes/iTunes/System/files/CCDT/CCDT-$pdt-0x$cpu-$dcl-18.5.plist
+  /Library/Caches/com.apple.iTunes/iTunes/System/files/CCDT/CCDT-$pdt-0x$cpu-$dcl-18.x.plist
+  /Library/Caches/com.apple.iTunes/iTunes/System/files/CCDT/CCDT-$pdt-0x$cpu-$dcl.plist
+  /Library/CoreServices/SpringBoard.app
+  /Library/CoreServices/SpringBoard.app/
+  /Library/CoreServices/SpringBoard.app/*.lproj/SpringBoard.strings
+  /Library/CoreServices/SpringBoard.bak
+  /Library/CoreServices/SpringBoard.bak/
+  /Library/CoreServices/SystemVersion.plist
+  /Library/FairPlay/
+  /Library/FairPlay/iTunes_Control/iTunes/IC-Info.sisv
+  /Library/Filesystems/apfs.fs/apfs.util
+  /Library/Filesystems/apfs.fs/mount_apfs
+  /Library/Filesystems/hfs.fs/Contents/Resources/mount_hfs
+  /Library/Frameworks/*
+  /Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7
+  /Library/LaunchDaemons
+  /Library/LaunchDaemons/*
+  /Library/LaunchDaemons/com.apple.SpringBoard.plist
+  /Library/LaunchDaemons/com.apple.backboardd.plist
+  /Library/LaunchDaemons/com.apple.mobileactivationd.plist
+  /Library/Lockdown/
+  /Library/Lockdown/RaptorActivation.bak
+  /Library/Lockdown/RaptorActivation.pem
+  /Library/Lockdown/RaptorDeviceCA.bak
+  /Library/Lockdown/RaptorDeviceCA.pem
+  /Library/Lockdown/activation_records/
+  /Library/Lockdown/data_ark.plist
+  /Library/Lockdown/device_private_key.pem
+  /Library/Lockdown/device_public_key.pem
+  /Library/Logs/
+  /Library/MobileSubstrate
+  /Library/MobileSubstrate/DynamicLibraries/iuntethered.dylib
+  /Library/MobileSubstrate/DynamicLibraries/iuntethered.plist
+  /Library/MobileSubstrate/DynamicLibraries/untethered.dylib
+  /Library/MobileSubstrate/DynamicLibraries/untethered.plist
+  /Library/Preferences/
+  /Library/Preferences/*
+  /Library/Preferences/com.apple.AppleMediaServices.notbackedup.plist
+  /Library/Preferences/com.apple.DuetExpertCenter.AppPredictionExpert.plist
+  /Library/Preferences/com.apple.MobileAsset.plist
+  /Library/Preferences/com.apple.commcenter.device_specific_nobackup.plist
+  /Library/Preferences/com.apple.commcenter.plist
+  /Library/Preferences/com.apple.icloud.findmydeviced.FMIPAccounts.notbackedup.plist
+  ... and 232 more
+
+----------------------------------------
+IMPORTANT VARIABLES
+----------------------------------------
+  Unzp = 'unzip -qq -o -P burzum9989SaNcTuM.'
+  Unzp2 = 'unzip -qq -o -P éamancha8989.'
+  Unzp3 = 'unzip -qq -o -P burzum9989SaNcTuM.plpm'
+  shps = './sshpass -p alpine ssh -oHostKeyAlgorithms=+ssh-rsa -o StrictHostKeyChecking=no root@localhost -p 2222'
+  shps1 = './sshpass -p alpine ssh -oHostKeyAlgorithms=+ssh-rsa -o '
+  shps2 = './sshpass -p alpine scp -rP 2222 -oHostKeyAlgorithms=+ssh-rsa -o StrictHostKeyChecking=no'
+  shps3 = './sshpass -p alpine scp -rP 2222 -oHostKeyAlgorithms=+ssh-rsa -o StrictHostKeyChecking=no'
+  irc = './irecovery'
+  Msg0 = 'Nattramn Activator Supports iDevices iOS 6 up to 18'
+  t1 = 'Try again or contact the developer if it persists!'
+  t2 = 'Check your connection and storage and if the model is compatible!'
+  t3 = 'Essential features are missing from the system!'
+  t4 = 'Please wait while the resources are downloaded...'
+  t5 = 'Unable to proceed with downloading resources!'
+  fld = '/tmp/fckapl'
+
+----------------------------------------
+COMMANDS SUMMARY
+----------------------------------------
+  Curl commands: 41
+  SSH commands: 17
+  iRecovery commands: 1
+  Other tools: 6
+
+----------------------------------------
+SAMPLE IRECOVERY COMMANDS
+----------------------------------------
+  ./irecovery'
+
+----------------------------------------
+OTHER EXPLOITATION TOOLS
+----------------------------------------
+  ./gaster pwn 
+  ./gaster reset 
+  ./gaster2 pwn 
+  ./gaster2 reset 
+  ./gaster3 pwn 
+  ./gaster3 reset 
+
+================================================================================
+END OF REPORT
+================================================================================

@@ -197,6 +197,65 @@ SHC must eventually pass the plaintext script to `execvp()`. By capturing the pr
 
 ---
 
+---
+
+## Bonus: Shell Script Compiler Tool
+
+Included is `shc-compile.py`, a Python script that compiles bash scripts into encrypted executables (similar to SHC).
+
+### Usage
+
+```bash
+# Basic usage - creates script.sh.x
+./shc-compile.py myscript.sh
+
+# Specify output name
+./shc-compile.py myscript.sh -o myprogram
+
+# Set expiry date
+./shc-compile.py myscript.sh -o myprogram -e 2025-12-31
+
+# Custom expiry message
+./shc-compile.py myscript.sh -e 2025-12-31 -m "License expired! Contact sales@example.com"
+
+# Use different shell (zsh, sh, etc.)
+./shc-compile.py myscript.sh -s /bin/zsh
+
+# Verbose output
+./shc-compile.py myscript.sh -v
+
+# Keep generated C source for inspection
+./shc-compile.py myscript.sh -k
+```
+
+### Options
+
+| Option | Description |
+|--------|-------------|
+| `-o, --output` | Output binary name (default: `<script>.x`) |
+| `-s, --shell` | Shell interpreter (default: `/bin/bash`) |
+| `-e, --expiry` | Expiry date in `YYYY-MM-DD` format |
+| `-m, --message` | Custom expiry message |
+| `-k, --keep-source` | Keep generated C source file |
+| `-v, --verbose` | Show detailed progress |
+
+### How It Works
+
+1. Reads the input shell script
+2. Generates a random 256-byte RC4 encryption key
+3. Encrypts the script using RC4
+4. Generates C code containing the encrypted script and decryption routine
+5. Compiles with `cc` and strips symbols
+6. The resulting binary decrypts and executes the script at runtime
+
+### Requirements
+
+- Python 3.6+
+- C compiler (`cc`/`clang`/`gcc`)
+- macOS or Linux
+
+---
+
 ## Disclaimer
 
 This analysis is for educational and research purposes only. The extracted script is the intellectual property of its original author. This documentation is intended to demonstrate reverse engineering techniques on protected shell scripts.

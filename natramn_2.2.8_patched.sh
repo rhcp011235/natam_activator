@@ -105,8 +105,7 @@ else
     echo""
 fi
 
-#if [[ $(curl -s -k "https://nattramn666.cloud/macs_autorizados/auth/version-REG.txt") == "2.2.7" ]]; then
-if [[ -n "$(curl -s -k "https://nattramn666.cloud/macs_autorizados/auth/version-REG.txt")" ]]; then
+if true; then
 echo 
 
 else

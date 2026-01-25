@@ -1,0 +1,83 @@
+--- n2_payload.sh	2026-01-23 02:24:59
++++ natramn_2.2.8_patched.sh	2026-01-23 18:55:38
+@@ -1721,7 +1721,7 @@
+ 
+ ecid=$(~/Library/.Bootchain/dep/irecovery -q | grep ECID | sed 's/ECID: //')
+ 
+-if [[ $(curl -s -k "https://nattramn666.cloud/checagem/R3g-F1L35/SSHChecker.php?sn=$ecid") == "authorized" ]]; then
++if true; then
+ 
+ cd ~/Library/.Bootchain/dep/ &>/dev/null
+ 
+@@ -2639,7 +2639,7 @@
+ 
+ sna12=$(~/Library/.Bootchain/dep/ideviceinfo -k SerialNumber) &>/dev/null
+ 
+-if [[ $(curl -s -k "https://nattramn666.cloud/tela_hello/A12/A12Checker.php?sn=$sna12") == "Error 69" ]]; then
++if true; then
+ 
+ cd ~/Library/.Bootchain/dep/ &>/dev/null
+ 
+@@ -4412,7 +4412,7 @@
+ 
+ hex=$(printf '0x%016x\n' $ecid1)
+ 
+-if [[ $(curl -s -k "https://nattramn666.cloud/checagem/R3g-F1L35/RGChecker.php?sn=$hex") == "authorized" ]]; then
++if true; then
+ 
+ cd ~/Library/.Bootchain/dep/ &>/dev/null
+ 
+@@ -4729,7 +4729,7 @@
+ 
+ hex=$(printf '0x%016x\n' $ecid1)
+ 
+-if [[ $(curl -s -k "https://nattramn666.cloud/checagem/R3g-F1L35/RGChecker.php?sn=$hex") == "authorized" ]]; then
++if true; then
+ 
+ pdt=$(~/Library/.Bootchain/dep/ideviceinfo -k ProductType)
+ vsj=$(~/Library/.Bootchain/dep/ideviceinfo -k ProductVersion | cut -d "." -f 1)
+@@ -5325,7 +5325,7 @@
+       
+                "
+ 
+-if [[ $(curl -s -k "https://nattramn666.cloud/checagem/R3g-F1L35/RGChecker.php?sn=$ecid") == "authorized" ]]; then
++if true; then
+ 
+ cd ~/Library/.Bootchain/dep/ &>/dev/null
+ 
+@@ -5825,7 +5825,7 @@
+ 
+ "
+ 
+-if [[ $(curl -s -k "https://nattramn666.cloud/checagem/R3g-F1L35/BChecker.php?sn=$ecid") == "authorized" ]]; then
++if true; then
+ 
+ alert=$(osascript -e 'tell app "System Events"
+     activate
+@@ -6104,7 +6104,7 @@
+ 
+ hex=$(printf '0x%016x\n' $ecid1)
+ 
+-if [[ $(curl -s -k "https://nattramn666.cloud/checagem/R3g-F1L35/RGChecker.php?sn=$hex") == "authorized" ]]; then
++if true; then
+ 
+ if [ "$alertgen" == "Untethered Legacy" ]; then
+ 
+@@ -6309,7 +6309,7 @@
+                $Msg0"
+     printf '[39m'
+ 
+-if [[ $(curl -s -k "https://nattramn666.cloud/checagem/R3g-F1L35/RGChecker.php?sn=$ecid") == "authorized" ]]; then
++if true; then
+ 
+ if [[ $vs2 == "15.7"* ]] || [[ $vs2 == "15.8"* ]] || [[ $vs2 == "16.6"* ]] || [[ $vs2 == "16.7"* ]]; then
+ 
+@@ -8859,7 +8859,7 @@
+                $Msg0"
+ 	printf '[39m'
+ 
+-if [[ $(curl -s -k "https://nattramn666.cloud/macs_autorizados/UserCheck.php?usrfdp=REGnew0202") == "Usa seu peste" ]]; then
++if true; then
+ 
+ echo 
+ 
